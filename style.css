@@ -1,0 +1,64 @@
+.header{
+    text-align: center;
+    background-image: linear-gradient(#00bfff, #1874CD)
+}
+.menu ul li{
+    display: inline-block;
+    position: relative;
+}
+.menu ul li a{
+    padding: 10px 180px;
+    text-decoration: none;
+    position: relative;
+}
+div.imageAri{
+    background-size : cover;
+    background-image: linear-gradient(#f5f5f5, #f7f7f7)
+}
+img.center{
+    display: block; 
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    text-align: center;
+    color : white
+}
+.header1{
+    text-align: center;
+    padding: 10px 80px;
+    background-image: linear-gradient(#f5f5f5, #f7f7f7)
+}
+.about{
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    padding: 10px;
+}
+.contact{
+    background-image: linear-gradient(#fff5ee, #f5fffa)
+}
+.footer{
+    background-image: linear-gradient(#00bfff, #1874CD);
+    padding: 10px;
+}
+
+h3{
+    text-align: center;
+    color : #1874CD;
+    
+}
+h5{
+    text-align: center;
+    color : white;
+}
+p{
+    text-align: center;
+    color : #00bfff
+}
+p.alamat p.email {
+    text-align: center;
+}
+body{
+    background-image: linear-gradient(#f5f5f5, #f7f7f7)
+}
